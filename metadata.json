@@ -1,0 +1,7 @@
+{
+  "name": "English Lab – Grade 4",
+  "description": "An interactive web application for Grade 4 students to practice English vocabulary and sentence building for Units 1-5, complete with voice recognition for pronunciation scoring and text-to-speech for listening practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
